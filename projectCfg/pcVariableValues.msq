@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<msq xmlns="http://www.msefi.com/:msq">
+    <bibliography author="TunerStudio MS 3.3.00 - EFI Analytics, Inc." writeDate="Sun Oct 05 00:09:53 ART 2025"/>
+    <versionInfo fileFormat="4.0" firmwareInfo="rusEFI+v20251003%401431655765" signature="rusEFI master.2025.10.03.uaefi.2530294903"/>
+    <page number="-1">
+        <constant name="tsCanId">"0"</constant>
+        <constant digits="0" name="tuneCrcPcVariable">49767.0</constant>
+        <constant cols="1" digits="1" name="wueAfrTargetOffset" rows="16" units=":1">
+         -1.5 
+         -1.4 
+         -1.1 
+         -0.9 
+         -0.8 
+         -0.6 
+         -0.6 
+         -0.5 
+         -0.4 
+         -0.4 
+         -0.3 
+         -0.2 
+         -0.2 
+         -0.1 
+         -0.1 
+         0.0 
+      </constant>
+        <constant cols="1" digits="0" name="wueAnalRecommend" rows="16" units="%">
+         2.0 
+         2.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+         1.0 
+      </constant>
+        <constant cols="1" digits="0" name="gearCountArray" rows="10" units="Gear">
+         -1.0 
+         0.0 
+         1.0 
+         2.0 
+         3.0 
+         4.0 
+         5.0 
+         6.0 
+         7.0 
+         8.0 
+      </constant>
+        <constant cols="1" digits="0" name="solenoidCountArray" rows="6" units="Solenoid">
+         1.0 
+         2.0 
+         3.0 
+         4.0 
+         5.0 
+         6.0 
+      </constant>
+        <constant cols="1" digits="0" name="rangeInputArray" rows="6" units="Input">
+         0.0 
+         1.0 
+         2.0 
+         3.0 
+         4.0 
+         5.0 
+      </constant>
+        <constant cols="1" digits="0" name="rangeStateArray" rows="9" units="State">
+         0.0 
+         1.0 
+         2.0 
+         3.0 
+         4.0 
+         5.0 
+         6.0 
+         7.0 
+         8.0 
+      </constant>
+        <constant name="canReWidebandHwIndex">"Idx 1"</constant>
+    </page>
+</msq>
