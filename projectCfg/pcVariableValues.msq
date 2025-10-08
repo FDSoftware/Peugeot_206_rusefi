@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <msq xmlns="http://www.msefi.com/:msq">
-    <bibliography author="TunerStudio MS 3.3.00 - EFI Analytics, Inc." writeDate="Sun Oct 05 00:09:53 ART 2025"/>
-    <versionInfo fileFormat="4.0" firmwareInfo="rusEFI+v20251003%401431655765" signature="rusEFI master.2025.10.03.uaefi.2530294903"/>
+    <bibliography author="TunerStudio MS 3.3.00 - EFI Analytics, Inc." writeDate="Wed Oct 08 01:30:00 ART 2025"/>
+    <versionInfo fileFormat="4.0" firmwareInfo="rusEFI+v20251008%401161449280" signature="rusEFI master.2025.10.08.uaefi.1161449280"/>
     <page number="-1">
         <constant name="tsCanId">"0"</constant>
-        <constant digits="0" name="tuneCrcPcVariable">49767.0</constant>
+        <constant digits="0" name="tuneCrcPcVariable">39322.0</constant>
         <constant cols="1" digits="1" name="wueAfrTargetOffset" rows="16" units=":1">
          -1.5 
          -1.4 
